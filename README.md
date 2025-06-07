@@ -8,6 +8,15 @@ Foodiezz is a modern, responsive restaurant website designed to showcase your cu
 
 ## 📸 Preview
 
+## Home Page
+![Home Page](./images/Home_Page.png)
+
+## Gallery Section
+![Gallery Section](./images/Gallery_Page.png)
+
+## Menu Section
+![Menu Section](./images/Menu_Page.png)
+
 ---
 
 ## ✨ Features
