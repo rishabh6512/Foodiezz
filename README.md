@@ -44,7 +44,7 @@ To run this project locally:
    cd Foodiezz
    ```
 
-3. **Open **\`\`** in your preferred browser:**
+3. **Open `index.html` in your preferred browser:**
 
    ```bash
    open index.html
@@ -79,7 +79,7 @@ Foodiezz/
 For any inquiries or feedback:
 
 * **GitHub:** [@rishabh6512](https://github.com/rishabh6512)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **Email:** [rishabhrishabh546@gmail.com](mailto:rishabhrishabh546@gmail.com)
 
 ---
 
